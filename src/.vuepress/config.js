@@ -2,7 +2,7 @@ const currentDateUTC = new Date().toUTCString()
 
 module.exports = {
 	title: 'Bradley Southerton',
-	dest: './public',
+	dest: './docs',
 	themeConfig: {
 		// repo: 'https://wwww.github.com',
 		// repoLabel: 'Repo',
