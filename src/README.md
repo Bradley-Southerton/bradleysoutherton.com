@@ -3,7 +3,7 @@ title: Home
 home: true
 heroText: Bradley Southerton
 tagline: CPA, MAFM
-actionText: Contact Me!
+actionText: Contact Me
 actionLink: /contact/
 features:
 -
