@@ -18,7 +18,7 @@ module.exports = {
 					{ text: 'Royalty Retrieval', link: '/services/royalty-retrieval.html' }
 				]
 			},
-			// { text: 'Blog', link: '/blog/' },
+			{ text: 'Blog', link: '/blog/' },
 			{ text: 'About', link: '/about/' },
 			{ text: 'Contact', link: '/contact/' }
 			// { text: 'Archive', link: '/archive/' },
